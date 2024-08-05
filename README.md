@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xColth
 - 👀 I’m interested in website developing
 - 🌱 I’m currently learning full stack web developer
-- 💞️ I’m taken
+- 📚 I'm a Computer Science student at Gadjah Mada University
 - 📫 @_kevinioo
 
 <!---
